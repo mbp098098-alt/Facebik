@@ -27,7 +27,7 @@ jobs:
       - name: Create Android Structure if missing
         run: |
           if [ ! -d "android" ]; then
-            flutter create . --platforms=android --org com.facebik.app
+            flutter create . --platforms=android --org com.facebik.app --project-name facebik
           fi
 
       - name: Get dependencies
