@@ -1,2 +1,2 @@
 # Facebik
-Facebik Android Demo
+Facebik Android Demo App
